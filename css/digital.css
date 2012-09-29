@@ -1,0 +1,76 @@
+body {background-color: #201B18}
+
+div.header {border-style: none none none none; border-width: 2px; border-color: #8990A9}
+img.center {width: 602; height: 145; border-style: none none solid none; border-width: 1px; border-color: #8990A9}
+img.center2 {width: 900; height: 520; border-style: none none none none; border-width: 1px; border-color: #8990A9}
+
+div.spacer {font-size: 5px}
+
+body {text-align: center; min-width: 600px}
+div.main {margin:0 auto; width:602px; text-align: left; border-style: solid none none none; border-width: 1px; border-color: #8990A9}
+
+p.menu {padding-top: 10px; color: #FFFEFB; font-family: arial, verdana; font-size: 10px}
+ul.l1 {color: #FFFEFB; font-family: arial, verdana; font-size: 10px}
+ul.l2 {color: #FFFEFB; font-family: arial, verdana; font-size: 10px}
+
+a.a1:link {text-decoration: none; color: #FFFEFB}
+a.a1:hover {text-decoration: none; color: #535E96}
+a.a1:active {text-decoration: #FFFEFB}
+a.a1:visited {text-decoration: none; color: #FFFEFB}
+a.a1:hover {text-decoration: none; color: #535E96}
+
+a.a2:link {text-decoration: none; color: #FFFEFB}
+a.a2:hover {text-decoration: none; color: #B94A1D}
+a.a2:active {text-decoration: #FFFEFB}
+a.a2:visited {text-decoration: none; color: #FFFEFB}
+a.a2:hover {text-decoration: none; color: #B94A1D}
+
+a.a4:link {text-decoration: none; color: #FFFEFB}
+a.a4:hover {text-decoration: none; color: #FF3E96}
+a.a4:active {text-decoration: #FFFEFB}
+a.a4:visited {text-decoration: none; color: #FFFEFB}
+a.a4:hover {text-decoration: none; color: #FF3E96}
+
+img.subtitle {margin-top: -53.5%; float:right}
+div.text {margin-top: -47%; float: right; width: 400px; text-align: justify; color: #FFFEFB; font-family: arial, verdana; font-size: 10px}
+
+p.signature {float: right; color: #FFFEFB; text-align: right; font-family: arial, verdana; font-size: 10px}
+p.copy {color: #FFFEFB; text-align: right; font-family: arial, verdana; font-size: 10px}
+
+li.hidden {color: #201B18}
+
+h2 {background-color: transparent}
+
+div.menus {clear: both; margin-top: 20px; margin-right: -12px; float:right; font-family: trebuchet MS, courier new, arial; font-size: 9px}
+b.b1 {text-decoration: none; color: #828282}
+a.a3:link {text-decoration: none; color: #828282}
+a.a3:hover {text-decoration: none; color: #FFFFFB}
+a.a3:active {text-decoration: #828282}
+a.a3:visited {text-decoration: none; color: #828282}
+a.a3:hover {text-decoration: none; color: #FFFFFB}
+
+body.indy {background-color: #201B18; margin-bottom: -20px}
+img.indy {margin-top: 30px; margin-right: -26px; float:right}
+div.indy {margin-top: 25px; margin-right: -16px; float: right; width: 400px; text-align: justify; color: #FFFEFB; font-family: arial, verdana; font-size: 10px}
+div.intro {margin-top: 30px; margin-right: -16px; float: right; width: 400px; text-align: justify; color: #FFFEFB; font-family: arial, verdana; font-size: 10px}
+iframe.data {margin-top: -53.5%; padding-right: -20px; padding-bottom: -50px; float: right; width: 420px; frameborder: 0; borderstyle: solid solid solid solid; border-color: #201B18; overflow: auto; text-align: justify; color: #FFFEFB; font-family: arial, verdana; font-size: 10px; background-color: #201B18}
+
+div.linkindy {margin-top: -12px; margin-right: -16px; float: right; width: 400px; text-align: justify; color: #FFFEFB; font-family: arial, verdana; font-size: 10px}
+td.text {color: #FFFEFB; font-family: arial, verdana; font-size: 9px; text-align: justify; padding-bottom: 10px}
+td.date {font-family: trebuchet MS, arial, verdana; font-size: 10px; color: #828282; padding-bottom: 5px}
+td.header {font-family: trebuchet MS, arial, verdana; font-size: 18px; font-style: bold; color: #E6E6FA; padding-bottom: 5px}
+td.time {font-family: trebuchet MS, arial, verdana; font-size: 10px; color: #828282; padding-bottom: 5px}
+tt.bloo {font-family: trebuchet MS, arial, verdana; font-size: 10px; font-style: none; color: #535E96; padding-bottom: 5px}
+
+td.logheader {font-family: trebuchet MS, arial, verdana; font-size: 18px; font-style: bold; color: #8B1A1A; padding-bottom: 5px}
+td.back {font-family: trebuchet MS, arial, verdana; font-size: 10px; text-align: right; color: #828282; padding-bottom: 5px}
+
+p.dishead {margin-top: 16px; font-family: trebuchet MS, arial, verdana; font-size: 10px; color: #828282; padding-bottom: 5px}
+
+a.a5:link {text-decoration: none; color: #535E96}
+a.a5:hover {text-decoration: none; color: #FFFEFB}
+a.a5:active {text-decoration: #535E96}
+a.a5:visited {text-decoration: none; color: #535E96}
+a.a5:hover {text-decoration: none; color: #FFFEFB}
+
+div.entry {margin-top: -16px; margin-right: -16px; float: right; width: 400px; text-align: justify; color: #FFFEFB; font-family: arial, verdana; font-size: 10px}
