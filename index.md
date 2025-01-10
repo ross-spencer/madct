@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-![](../images/titles/header.jpg)
+![](images/titles/header.jpg)
 
 Portfolio submitted in support of my Master of Arts in Digital Culture and Technology at Kings College London (2005).
 
